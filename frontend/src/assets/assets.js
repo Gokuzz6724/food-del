@@ -172,7 +172,7 @@ export const food_list = [
         name: "Veg Rolls",
         image: food_8,
         price: 15,
-        description: "Food provides essential nutrients for overall health and well-being",
+        description: "1",
         category: "Rolls"
     }, {
         _id: "9",
